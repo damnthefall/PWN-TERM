@@ -1,4 +1,4 @@
-package io.neoterm.bridge;
+package hilled.pwnterm.bridge;
 
 import org.junit.Test;
 

@@ -1,4 +1,4 @@
-package io.neoterm;
+package hilled.pwnterm;
 
 import org.junit.Test;
 
