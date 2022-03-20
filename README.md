@@ -10,7 +10,7 @@ A modern-designed android terminal emulator for the 21st century.
 
 Originally, NeoTerm was designed as the front end of Termux to provide some functions that Termux didn't have, but we
 found it very convenient. In continuous development, we discovered our goal: to be the best terminal for Android.
-
+test
 ### Help & Documentation
 
 View on [GitBook](https://neoterm.gitbooks.hilled.pwnterm-wiki/content)
